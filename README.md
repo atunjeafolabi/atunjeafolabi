@@ -1,3 +1,3 @@
-[Atunje Profile Website](atunje.com)
+[Atunje Profile Website](https://atunje.com)
 
-Do not a programming language or framework to your skills after watching a 15-minute YouTube video on it.
+Do not add a programming language or framework to your skills after watching a 15-minute YouTube video on it.
